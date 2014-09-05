@@ -3,6 +3,8 @@
 The R script in this repository is for a Shiny app containing 
 an interactive data visualization using ggvis package
 
+The app can be viewed here: https://conniez.shinyapps.io/ufo-app/
+
 The data files for this app are in the data folder.
 Within the app, the data is merged together and put into a ggvis plot.
 
